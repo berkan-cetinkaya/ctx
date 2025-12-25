@@ -1,4 +1,4 @@
-import { ContextCancelledError } from "./errors";
+import { ContextCancelledError } from "./errors.js";
 
 type ValueEntry = {
   key: unknown;
