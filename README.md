@@ -1,4 +1,4 @@
-# ctx
+# go-like-ctx
 
 Go-style context discipline for Node.js. Explicit context passing, cooperative cancellation, zero runtime deps.
 
